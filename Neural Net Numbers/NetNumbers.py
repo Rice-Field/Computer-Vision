@@ -5,8 +5,6 @@ import scipy.special
 import matplotlib.pyplot
 import scipy.misc
 import glob
-# plot in notebook
-%matplotlib inline
 
 # neural network class
 class neuralNetwork:
