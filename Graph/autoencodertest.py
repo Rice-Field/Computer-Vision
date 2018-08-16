@@ -10,7 +10,7 @@ from tensorflow import losses
 import os
 import math
 
-from detgenhist import detGen
+# from detgenhist import detGen
 
 tf.reset_default_graph()
 
